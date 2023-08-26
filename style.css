@@ -87,15 +87,25 @@
 }
 
 .carosal-area .text {
-    display: none;
+    text-align: center;
+    margin-bottom: 50px;
 }
 
 .carosal-area .text>h3 {
-    display: none;
+    color: #fff;
+    font-size: 35px;
+    font-weight: bold;
+    font-family: 'Roboto', sans-serif;
+    margin-top: 210px;
 }
 
 .carosal-area .text>p {
-    display: none;
+    color: #fff;
+    font-family: "Roboto", sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 30px;
+    margin-top: 28px;
 }
 
 .carosal-area .text>h5 {
@@ -107,7 +117,8 @@
 }
 
 .carosal-area .text>h5.white-button a {
-    display: none;
+    background: #fff;
+    color: #0163d2;
 }
 
 .carosal-area .owl-prev {
