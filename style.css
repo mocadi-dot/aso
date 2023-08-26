@@ -107,8 +107,7 @@
 }
 
 .carosal-area .text>h5.white-button a {
-    background: #fff;
-    color: #0163d2;
+    display: none;
 }
 
 .carosal-area .owl-prev {
