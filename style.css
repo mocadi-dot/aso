@@ -81,9 +81,10 @@
 
 .carosal-area {
     background-image: url("img/carosal1.png");
-    background-size: contain;
+    height: 650px;
+    width: 100%;
     background-repeat: no-repeat;
-    background-position: center;
+    background-position: center center;
 }
 
 .carosal-area .text {
